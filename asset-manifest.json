@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhyaz/static/css/main.8811dc72.css",
+    "main.js": "/Abhyaz/static/js/main.8b850d9f.js",
+    "static/js/787.c1112931.chunk.js": "/Abhyaz/static/js/787.c1112931.chunk.js",
+    "index.html": "/Abhyaz/index.html",
+    "main.8811dc72.css.map": "/Abhyaz/static/css/main.8811dc72.css.map",
+    "main.8b850d9f.js.map": "/Abhyaz/static/js/main.8b850d9f.js.map",
+    "787.c1112931.chunk.js.map": "/Abhyaz/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8811dc72.css",
+    "static/js/main.8b850d9f.js"
+  ]
+}
